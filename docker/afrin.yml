@@ -1,0 +1,6 @@
+---
+- name: afrin
+  hosts: true
+  become: yes
+  tasks:
+    -name:
